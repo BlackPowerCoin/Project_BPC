@@ -1,1 +1,5 @@
 const uint64_t MONEY_SUPPLY = UINT64_C(196319801890);
+const unsigned EMISSION_SPEED_FACTOR =21;
+const uint64_t DIFFICULTY_TARGET = 72;
+const int P2P_DEFAULT_PORT = 123;
+const int RPC_DEFAULT_PORT = 1094;
