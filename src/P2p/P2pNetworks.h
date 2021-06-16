@@ -1,0 +1,2 @@
+This identifier is used for network packages in order not to mix two different cryptocoin networks. Change all bytes to random values for your network:
+const static boost::uuids::uuid CRYPTONOTE_NETWORK = { { 0xB1, 0x1B, 0xB1, 0x1B, 0xB1, 0x0B, 0xB1, 0x0B, 0xB0, 0x1B, 0xB0, 0x1B, 0xB0, 0x1B, 0xB1, 0x1B } };
